@@ -4,6 +4,7 @@
         <Identity Id="AttachToIIS.d983ce74-e5ee-4b1b-b751-10dbd675c846" Version="1.0" Language="en-US" Publisher="Igor Perkovsky" />
         <DisplayName>Attach to IIS</DisplayName>
         <Description xml:space="preserve">The easiest way to attach to IIS, IIS Express. This version is compatible with Visual Studio 2022.</Description>
+        <MoreInfo>https://github.com/Perkovsky/AttachToIIS</MoreInfo>
         <Icon>Resources\Icon.png</Icon>
         <PreviewImage>Resources\Icon.png</PreviewImage>
         <Tags>Attach, Attach to Process, Attach to Process IIS</Tags>
